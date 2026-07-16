@@ -7,7 +7,7 @@ zero build tools.
 ```
 chatbot/
 ├── backend/
-│   ├── server.js        # Express server + Groq API integration
+│   ├── server.js        # Express server + API integration
 │   ├── package.json
 │   ├── .env.example     # copy to .env and add your key
 │   └── .gitignore
